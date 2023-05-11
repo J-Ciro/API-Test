@@ -1,0 +1,12 @@
+{
+    "users":[
+        {
+            "id":0,
+            "username":"Juan",
+            "age":"28",
+            "email":"juanes@gmail.com",
+            "password":"123abc",
+            "phone":"3322114455"
+        }
+    ]
+}
